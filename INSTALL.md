@@ -1,7 +1,7 @@
 # INSTALLATION
 
 ## Summary 
-Optional LaSalleCMS package. 
+LaSalleCMS Events package. 
 
 
 ## composer.json:
